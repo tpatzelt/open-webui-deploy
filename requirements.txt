@@ -1,1 +1,1 @@
- open-webui==0.5.20
+ open-webui
